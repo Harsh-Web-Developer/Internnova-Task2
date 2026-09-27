@@ -1,0 +1,40 @@
+* {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+body {
+            background-color: #f4f6f9;
+            color: #333333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+#main {
+            text-align: center;
+            background-color: #1e293b;
+            color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+.subtitle {
+            font-size: 1.1rem;
+            font-style: italic;
+            color: #cbd5e1;
+        }
+.card {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-radius: 6px;
+        }
+.highlight {
+            color: #2563eb;
+            font-weight: bold;
+        }
+#special {
+            background-color: #e0f2fe;
+            color: #0369a1;
+            padding: 10px;
+        }
